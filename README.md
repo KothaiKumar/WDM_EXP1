@@ -53,8 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
-
+## Employee 
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/4b9fd98b-4787-423a-9475-063def4846fd)
+## Weather
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/31889db7-29fe-4c0c-b86c-73ba3b25d922)
 
 ### PREPROCESSING
 ### Procedure:
@@ -107,10 +109,6 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-## Employee 
-![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/4b9fd98b-4787-423a-9475-063def4846fd)
-## Weather
-![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/31889db7-29fe-4c0c-b86c-73ba3b25d922)
 
 
 
