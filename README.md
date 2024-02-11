@@ -77,6 +77,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## Weather
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/48af3454-4cb6-43fd-97f5-271a9242750f)
+## Employee
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/13db4e06-3902-4fa2-ab92-9ad367ac9665)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -93,6 +97,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/fa52f678-6b79-459a-83cc-ba069a485127)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -109,6 +114,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+![image](https://github.com/KothaiKumar/WDM_EXP1/assets/121215739/30d00c3f-1bb8-4a50-9490-44c26709f9b5)
 
 
 
